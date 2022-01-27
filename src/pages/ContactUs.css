@@ -1,0 +1,100 @@
+/*------------------------
+# Contact
+-------------------------*/
+form {
+  float: right;
+  width: 70%;
+  margin-top: 30px;
+  justify-content: center;
+}
+
+form h4 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.form-group input {
+  width: 100%;
+}
+
+form button {
+  justify-content: center;
+  width: 160px;
+
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.text-center button:hover {
+  background-color: orange;
+  color: black;
+}
+
+.contact .info {
+  padding-bottom: 12px;
+  border: 1px solid rgb(230, 224, 224);
+}
+
+.contact .info {
+  width: 100%;
+  background: #fff;
+}
+.contact .info svg {
+  font-size: 20px;
+  color: black;
+  float: right;
+  margin-right: 60px;
+  width: 26px;
+  height: 26px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #45505b;
+}
+.contact .info p {
+  padding: 0 0 0 60px;
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #728394;
+}
+.contact .info .email,
+.contact .info .phone {
+  margin-top: 40px;
+}
+.contact .info .email:hover i,
+.contact .info .address:hover i,
+.contact .info .phone:hover i {
+  background: #0563bb;
+  color: #fff;
+}
+.contact .php-email-form {
+  width: 100%;
+  background: #fff;
+}
+.contact .php-email-form .form-group {
+  padding-bottom: 8px;
+}
+
+.home {
+  max-width: 960px;
+  margin: auto;
+}
+
+.fields {
+  padding: 12px;
+  border: 1px solid rgb(230, 224, 224);
+}
+.contact-form-title {
+  margin-top: 20px;
+}
+.getintouch {
+  margin-top: 30px;
+}
