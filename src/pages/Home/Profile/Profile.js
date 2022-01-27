@@ -43,7 +43,7 @@ function Profile() {
                   steps={[
                     "Mobile Developer 📱",
                     1000,
-                    "Full Stack Developer 💻",
+                    "Web Developer 💻",
                     1000,
                     "React/React Native Dev 🔴",
                     1000,
@@ -51,7 +51,7 @@ function Profile() {
                 />
               </h1>
               <span className="profile-role-tagline">
-                I Develop Mobile and Web Apps, Don't Hesitate to Contect ME 😄
+                I Will Develop for you a responsive Web or Mobile application, Don't Hesitate to Contect ME 😄
               </span>
             </span>
           </div>
