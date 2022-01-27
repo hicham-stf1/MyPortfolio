@@ -9,7 +9,7 @@ function Footer1() {
   <footer class="bg-dark text-center text-white">
   <div class="text-center p-3" >
     © 2020 Copyright:
-    <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    <a className="text-white" href='https://hicham-portfolio.herokuapp.com/' >hicham-portfolio</a>
   </div>
  
 </footer>
