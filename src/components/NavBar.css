@@ -3,6 +3,7 @@
   height: 80px;
   display: flex;
   justify-content: start;
+  overflow-x: hidden;
   align-items: center;
   z-index: 500 !important;
     

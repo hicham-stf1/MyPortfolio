@@ -143,13 +143,7 @@
         width: 275px;
         margin-top: -90px;
     }
-    .getResume button{
-        justify-content: center;
-        text-align: center;
-        
-        
     
-    }
     .profile-details{
         width: 90% ;
     }
@@ -158,9 +152,9 @@
     text-transform: uppercase;
     justify-content: center;
     text-align: center;
-    margin-top: -8px;
+  
     background-color: rgb(228, 82, 15);
-    padding: 8px;
+    padding: 10px;
     font-family: sans-serif;
     
 

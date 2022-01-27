@@ -9,12 +9,6 @@ function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="colz-icon">
-              <a href="https://github.com/hicham-stf1">
-                <i className="bi bi-github"></i>
-              </a>
-              <a href="https://www.linkedin.com/in/hicham-za%C3%AFdi-2983331a3/">
-                <i className="bi bi-linkedin"></i>
-              </a>
               <a href="https://web.facebook.com/profile.php?id=100008363893267">
                 <i className="fa fa-facebook-square"></i>
               </a>
