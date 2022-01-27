@@ -6,10 +6,9 @@ function Footer1() {
         <div className="container">
 <div class="container my-5">
 
-  <footer class="bg-dark text-center text-white">
+  <footer class="bg-light text-center text-black">
   <div class="text-center p-3" >
-    © 2020 Copyright:
-    <a className="text-white" href='https://hicham-portfolio.herokuapp.com/' >hicham-portfolio</a>
+    © 2020 Copyright : All Rights Reserved
   </div>
  
 </footer>
