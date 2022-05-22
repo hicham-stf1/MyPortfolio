@@ -9,8 +9,8 @@ function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="colz-icon">
-              <a href="https://web.facebook.com/profile.php?id=100008363893267">
-                <i className="fa fa-facebook-square"></i>
+              <a href="https://github.com/hicham-stf1">
+                <i className="fa fa-github"></i>
               </a>
               <a href="https://www.instagram.com/hzaydi78/">
                 <i className="fa fa-instagram"></i>
@@ -45,13 +45,14 @@ function Profile() {
                 />
               </h1>
               <span className="profile-role-tagline">
-                I Will Develop for you a responsive Web or Mobile application, Don't Hesitate to Contect ME 😄
+                I Will Develop for you a responsive Web or Mobile application,
+                Don't Hesitate to Contect ME 😄
               </span>
             </span>
           </div>
           <div className="profile-options">
             <div className="getResume">
-              <a href="cvhicham.pdf" download="hicham.pdf">
+              <a href="cvhichamzaidi.pdf" download="hicham.pdf">
                 <button type="button" className="btn btn-primary btn-rounded">
                   Get Resume
                 </button>

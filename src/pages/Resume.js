@@ -22,7 +22,7 @@ function Resume() {
 
       <div className="row">
         <div class="col-6">
-          <h5>HTML, CSS, Bootstrap, </h5>
+          <h5>HTML, CSS, Bootstrap, Tailwind CSS, Materiel UI </h5>
           <div class="progress">
             <div
               class="progress-bar"
@@ -90,7 +90,7 @@ function Resume() {
         </div>
 
         <div class="col-6">
-          <h5>SQL, PostgreSQL, Firebase</h5>
+          <h5>MySQL, PostgreSQL, Firebase, MongoDB</h5>
           <div class="progress">
             <div
               class="progress-bar"
@@ -104,7 +104,7 @@ function Resume() {
             </div>
           </div>
 
-          <h5>PHP, NodeJs</h5>
+          <h5>PHP, NodeJs, java, Spring Boot</h5>
           <div class="progress">
             <div
               class="progress-bar"
@@ -131,7 +131,7 @@ function Resume() {
               40%
             </div>
           </div>
-          <h5>Code Test : Junit5,Selinium</h5>
+          <h5>Code Test : Junit5</h5>
           <div class="progress">
             <div
               class="progress-bar"
@@ -167,20 +167,37 @@ function Resume() {
           <span>HTML, CSS, PHP, JavaScript, Bootstrap</span>
         </h5>
         <p>
-          Esta-Elzare is the name of our application, it's an E-commerce wep
-          application the handles the process of shoping online of many products
-          exists in the store{" "}
+          Esta-Elzare is the name of our application, it's an E-commerce web
+          application that handles the process of shopping online{" "}
         </p>
       </div>
       <div className="card">
         <h5>
-          Liqah-Corona :<span>Java, FireBsae, Xml</span>
+          Liqah-Corona :<span>Java, FireBsae et Xml</span>
         </h5>
         <p>
           {" "}
           It is a Mobile Android Aplication that handles the processus of
           Vaccination in our country, it is a very simple application that
           provide many services like Informations, RDV of Vaccination and more.
+        </p>
+      </div>
+      <div className="card">
+        <h5>
+          MERN Web Application:
+          <span> MongoDB, Express, React JS et Node JS</span>
+        </h5>
+        <p> Une application web pour lier les avocats et les clients</p>
+      </div>
+      <div className="card">
+        <h5>
+          Android application called Geeked
+          <span> Java, FireBsae et XML</span>
+        </h5>
+        <p>
+          {" "}
+          Une application mobile Android qui offre un réseau social pour le
+          partage des projets et articles IT{" "}
         </p>
       </div>
       <h1>Work Expertise</h1>
